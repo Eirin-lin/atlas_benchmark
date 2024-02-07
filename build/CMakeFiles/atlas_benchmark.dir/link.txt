@@ -1,0 +1,1 @@
+/usr/bin/aarch64-linux-gnu-g++ -g CMakeFiles/atlas_benchmark.dir/main.cpp.o ../OptionParser.o -o atlas_benchmark   -L/mnt/c/atlas_benchmark  -Wl,-rpath,/mnt/c/atlas_benchmark -lcppbenchmark -lhdr_histogram_static 

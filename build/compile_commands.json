@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/mnt/c/atlas_benchmark/build",
+  "command": "/usr/bin/aarch64-linux-gnu-g++  -I/mnt/c/atlas_benchmark -g -std=gnu++11 -o CMakeFiles/atlas_benchmark.dir/main.cpp.o -c /mnt/c/atlas_benchmark/main.cpp",
+  "file": "/mnt/c/atlas_benchmark/main.cpp"
+}
+]

@@ -1,0 +1,3 @@
+/mnt/c/atlas_benchmark/build/CMakeFiles/atlas_benchmark.dir
+/mnt/c/atlas_benchmark/build/CMakeFiles/edit_cache.dir
+/mnt/c/atlas_benchmark/build/CMakeFiles/rebuild_cache.dir
